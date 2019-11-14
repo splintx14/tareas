@@ -1,0 +1,62 @@
+.profile
+{
+  margin: 20px;
+  display: flex;
+  align-items: center;
+}
+
+
+.profile img
+{
+  width: 100%;
+}
+
+.profile .image
+{
+  width: 300px;
+}
+
+.profile .data
+{
+  padding-left: 10px;
+}
+
+.profile .data td
+{
+  padding: 4px;
+}
+
+.profile .name
+{
+  color: green;
+}
+
+.profile .description
+{
+  color: red;
+  font-family: "Lucida Console";
+}
+
+
+.profile .field
+{
+  padding: 0 3px;
+}
+
+
+/* Compu normal  */
+@media only screen and (max-width : 480px) {
+
+}
+
+
+
+
+/* Tlf*/
+@media only screen and (max-width : 480px) {
+
+  .profile 
+  {
+    flex-direction: column;
+  }
+}
