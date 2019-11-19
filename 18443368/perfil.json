@@ -1,0 +1,13 @@
+{
+    "nombre": "Diego Branco",
+    "descripción": "Soy un estudiante de computación de la facultad de Ciencias de la Universidad Central de Venezuela, y me planeo graduar con la mención \"Ingeniería de Software\".",
+    "color": "Verde",
+    "libro": "La Isla Misteriosa",
+    "Musica": ["Soundtracks", "Rock", "Metal"],
+    "video_juego": "JRPGs",
+    "lenguajes": ["C","C++","Python","Java"],
+    "email": "diegoh89@gmail.com",
+    "CI": 18443368,
+    "genero": "masculino",
+    "fecha_nacimiento": "14/06/1989"
+}
