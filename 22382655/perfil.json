@@ -1,0 +1,13 @@
+{
+    "nombre": "Osvani Colina",
+    "descripción": "Soy estudiante de computación y me desempeño en el área de desarrollo web.",
+    "color": "Verde",
+    "libro": "El Último Deseo (Saga Geralt de Rivia)",
+    "musica": ["Pop", "Bachata"],
+    "video_juego": "Dragon Age",
+    "lenguajes": ["C++", "java", "C", "Javascript", "Python"],
+    "email": "osvacolijim@gmail.com",
+    "CI": 22382655,
+    "genero": "masculino",
+    "fecha_nacimiento": "20/10/1994"
+}
